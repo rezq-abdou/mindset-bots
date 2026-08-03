@@ -428,10 +428,20 @@ CAT2 = {
             {"title": "العقل المدبر", "description": "فهم كيف يعمل عقلك وكيف تتحكم في أفكارك — أساليب ذكية لإدارة العقل والمشاعر.", "url": "https://example.com/intelligent-mind.pdf"},
             {"title": "النجاح هو لك", "description": "دليل عملي لبناء الثقة بالنفس وتحقيق النجاح في جميع جوانب الحياة.", "url": "https://example.com/success-is-yours.pdf"}
         ]
+    },
+    "investment": {
+        "name_ar": "📈 الاستثمار",
+        "name_en": "📈 Investment",
+        "books": [
+            {"title": "المستثمر الذكي", "description": "الكتاب المرجعي الأول عالمياً في الاستثمار من تأليف بنجامين غراهام — أساسيات الاستثمار القائم على القيمة والتحليل المالي.", "url": "https://example.com/intelligent-investor.pdf"},
+            {"title": "الميليونير الفوري", "description": "قصة ملهمة عن رجل يتحول إلى مليونير بين عشية وضحاها — أسرار العقلية المالية والنجاح من تأليف مارك فيكتور هانسن وروبرت ألن.", "url": "https://example.com/instant-millionaire.pdf"},
+            {"title": "دراسة السوق", "description": "كيف تحلل السوق وتحدد الفرص الاستثمارية — فهم المنافسين والعرض والطلب قبل اتخاذ أي قرار استثماري.", "url": "https://example.com/market-analysis.pdf"},
+            {"title": "اجتذاب العملاء", "description": "استراتيجيات عملية لجذب العملاء الجدد والاحتفاظ بهم — بناء قاعدة عملاء قوية لتنمية استثمارك وأعمالك.", "url": "https://example.com/customer-acquisition.pdf"}
+        ]
     }
 }
 
-CAT2_ORDER = ["english", "entrepreneurship", "german", "digital_marketing", "personal_finance", "ai", "freelancing", "sales", "mindset"]
+CAT2_ORDER = ["english", "entrepreneurship", "german", "digital_marketing", "personal_finance", "investment", "ai", "freelancing", "sales", "mindset"]
 
 # ============================================================
 #  BOT 1 HANDLERS  (channels)
