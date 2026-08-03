@@ -438,10 +438,21 @@ CAT2 = {
             {"title": "دراسة السوق", "description": "كيف تحلل السوق وتحدد الفرص الاستثمارية — فهم المنافسين والعرض والطلب قبل اتخاذ أي قرار استثماري.", "url": "https://example.com/market-analysis.pdf"},
             {"title": "اجتذاب العملاء", "description": "استراتيجيات عملية لجذب العملاء الجدد والاحتفاظ بهم — بناء قاعدة عملاء قوية لتنمية استثمارك وأعمالك.", "url": "https://example.com/customer-acquisition.pdf"}
         ]
+    },
+    "islamic": {
+        "name_ar": "🕌 الكتب الإسلامية",
+        "name_en": "🕌 Islamic Books",
+        "books": [
+            {"title": "كتب الحديث الستة", "description": "مجموعة الكتب الستة المعتمدة في الحديث النبوي — صحيح البخاري، صحيح مسلم، سنن أبي داود، سنن الترمذي، سنن النسائي، وسنن ابن ماجه.", "url": "https://example.com/six-books-of-hadith.pdf"},
+            {"title": "مؤلفات ابن تيمية", "description": "مختارات من أهم كتب شيخ الإسلام ابن تيمية في العقيدة والفقه والتفسير — مثل العقيدة الواسطية ومنهاج السنة النبوية.", "url": "https://example.com/ibn-taymiyyah.pdf"},
+            {"title": "مؤلفات ابن قيم الجوزية", "description": "روائع الإمام ابن قيم الجوزية — مثل زاد المعاد والفوائد وكتاب الروح.", "url": "https://example.com/ibn-al-qayyim.pdf"},
+            {"title": "مؤلفات ابن الجوزي", "description": "من أهم كتب الإمام ابن الجوزي — مثل صيد الخاطر وتلبيس إبليس وبستان الواعظين.", "url": "https://example.com/ibn-al-jawzi.pdf"},
+            {"title": "مؤلفات ابن عثيمين", "description": "شروحات وكتب الشيخ محمد بن صالح العثيمين — مثل شرح الأصول الثلاثة وشرح العقيدة الواسطية.", "url": "https://example.com/ibn-uthaymeen.pdf"}
+        ]
     }
 }
 
-CAT2_ORDER = ["english", "entrepreneurship", "german", "digital_marketing", "personal_finance", "investment", "ai", "freelancing", "sales", "mindset"]
+CAT2_ORDER = ["english", "entrepreneurship", "german", "digital_marketing", "personal_finance", "investment", "ai", "freelancing", "sales", "mindset", "islamic"]
 
 # ============================================================
 #  BOT 1 HANDLERS  (channels)
