@@ -459,19 +459,19 @@ def main_keyboard1():
     kb.adjust(2)
     return kb.as_markup()
 
-@router1.message(Command("start"))
+@router1.message(Command("start"), F.chat.type == "private")
 async def cmd_start1(msg: Message):
     await msg.answer("📱 *اختر مجالك:*\n", reply_markup=main_keyboard1())
 
-@router1.message(Command("help"))
+@router1.message(Command("help"), F.chat.type == "private")
 async def cmd_help1(msg: Message):
     await msg.answer("🎓 *Mindset Learning Channels*\n\nالأمر /start — عرض القائمة الرئيسية\nالأمر /help — هذه المساعدة\n\nاختر مجالاً وستظهر لك القنوات مرتبة حسب المستوى.", reply_markup=reply_menu())
 
-@router1.message(F.text == "📋 القائمة الرئيسية")
+@router1.message(F.text == "📋 القائمة الرئيسية", F.chat.type == "private")
 async def menu_button1(msg: Message):
     await msg.answer("📱 *اختر مجالك:*\n", reply_markup=main_keyboard1())
 
-@router1.message()
+@router1.message(F.chat.type == "private")
 async def any_message1(msg: Message):
     await msg.answer("📱 *اختر مجالك:*\n", reply_markup=main_keyboard1())
 
@@ -581,19 +581,19 @@ def main_keyboard2():
     kb.adjust(2)
     return kb.as_markup()
 
-@router2.message(Command("start"))
+@router2.message(Command("start"), F.chat.type == "private")
 async def cmd_start2(msg: Message):
     await msg.answer("📱 *اختر مجالك:*", reply_markup=main_keyboard2())
 
-@router2.message(Command("help"))
+@router2.message(Command("help"), F.chat.type == "private")
 async def cmd_help2(msg: Message):
     await msg.answer("📚 *Mindset Library*\n\n/start — عرض القائمة الرئيسية\n/help — هذه المساعدة\n\nاختر مجالاً، ثم كتاباً لقراءة الوصف وتحميل PDF.", reply_markup=reply_menu())
 
-@router2.message(F.text == "📋 القائمة الرئيسية")
+@router2.message(F.text == "📋 القائمة الرئيسية", F.chat.type == "private")
 async def menu_button2(msg: Message):
     await msg.answer("📱 *اختر مجالك:*", reply_markup=main_keyboard2())
 
-@router2.message()
+@router2.message(F.chat.type == "private")
 async def any_message2(msg: Message):
     await msg.answer("📱 *اختر مجالك:*", reply_markup=main_keyboard2())
 
