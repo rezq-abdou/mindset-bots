@@ -433,10 +433,32 @@ CAT2 = {
             {"title": "مؤلفات ابن الجوزي", "description": "من أهم كتب الإمام ابن الجوزي — مثل صيد الخاطر وتلبيس إبليس وبستان الواعظين.", "url": "https://example.com/ibn-al-jawzi.pdf"},
             {"title": "مؤلفات ابن عثيمين", "description": "شروحات وكتب الشيخ محمد بن صالح العثيمين — مثل شرح الأصول الثلاثة وشرح العقيدة الواسطية.", "url": "https://example.com/ibn-uthaymeen.pdf"}
         ]
+    },
+    "personality": {
+        "name_ar": "🌱 ابني شخصيتك",
+        "name_en": "🌱 Build Your Personality",
+        "books": [
+            {"title": "القوة الهادئة", "description": "كتاب عن قوة الشخصيات الهادئة وكيف تحوّل هدوءك إلى ميزة في الحياة والعمل.", "url": "https://example.com/quiet-power.pdf"},
+            {"title": "انت قوة مذهلة", "description": "دليل عملي لاكتشاف قوتك الداخلية وبناء ثقة مطلقة بنفسك وتحقيق أهدافك.", "url": "https://example.com/you-are-a-badass.pdf"},
+            {"title": "بسط حياتك", "description": "كيف تتخلص من الفوضى والتعقيد وتعيش حياة أبسط وأكثر تركيزاً.", "url": "https://example.com/simplify-your-life.pdf"},
+            {"title": "كيف تقطع علاقتك بهاتفك", "description": "خطوات عملية لتقليل استخدام الهاتف والعودة إلى الحياة الحقيقية.", "url": "https://example.com/break-up-with-phone.pdf"},
+            {"title": "7 شخصيات تسمم حياتكم", "description": "تعرّف على الشخصيات السامة التي تستنزف طاقتك وكيف تحمي نفسك منها.", "url": "https://example.com/7-toxic-personalities.pdf"}
+        ]
+    },
+    "energy": {
+        "name_ar": "⚡ اشحن طاقتك",
+        "name_en": "⚡ Charge Your Energy",
+        "books": [
+            {"title": "حافلة الطاقة", "description": "قصة ملهمة عن قيادة الطاقة الإيجابية في العمل والحياة من تأليف جون غوردون.", "url": "https://example.com/energy-bus.pdf"},
+            {"title": "تغلب على الاكتئاب بسرعة", "description": "استراتيجيات عملية للتخلص من الاكتئاب واستعادة التوازن النفسي.", "url": "https://example.com/overcome-depression.pdf"},
+            {"title": "ذاكرة مثالية", "description": "تقنيات عملية لتقوية الذاكرة والحفظ السريع.", "url": "https://example.com/perfect-memory.pdf"},
+            {"title": "مشاعرك قد تكون قاتلة", "description": "فهم خطورة المشاعر السلبية على صحتك وكيف تتحكم بها قبل أن تتحكم بك.", "url": "https://example.com/your-emotions.pdf"},
+            {"title": "من الصفر", "description": "دليل عملي لبدء حياة جديدة من الصفر وبناء مستقبل أفضل.", "url": "https://example.com/from-scratch.pdf"}
+        ]
     }
 }
 
-CAT2_ORDER = ["english", "entrepreneurship", "german", "digital_marketing", "personal_finance", "investment", "ai", "freelancing", "sales", "mindset", "islamic"]
+CAT2_ORDER = ["english", "entrepreneurship", "german", "digital_marketing", "personal_finance", "investment", "ai", "freelancing", "sales", "mindset", "islamic", "personality", "energy"]
 
 # ============================================================
 #  BOT 1 HANDLERS  (channels)
