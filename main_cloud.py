@@ -309,26 +309,10 @@ CAT1 = {
         ],
         "top_picks": "🥇 ZAmericanEnglish\n🥇 BBC Learning English\n🥇 VOA Learning English\n4️⃣ English with Lucy\n5️⃣ Speak English With Vanessa\n6️⃣ Oxford Online English\n7️⃣ Learn English with TV Series\n8️⃣ Business English Pod\n9️⃣ Rachel's English\n🔟 TED",
         "extra_resources": "📌 *مسار التعلم الموصى به:*\n\n1️⃣ ابدأ مع *ZAmericanEnglish* لبناء أساس قوي باللغة العربية\n2️⃣ بالتوازي، تابع *BBC Learning English* و *VOA Learning English* لتطوير الاستماع والمفردات\n3️⃣ عند الوصول إلى المستوى المتوسط، انتقل إلى *English with Lucy* و *Oxford Online English* و *Learn English with TV Series*\n4️⃣ إذا كان هدفك العمل، ركز على *Business English Pod* و *Business English with Christina*\n5️⃣ للمستوى المتقدم، تابع *TED* و *Harvard Business Review* و *Stanford GSB*"
-    },
-    "islamic": {
-        "name_ar": "🕌 الدراسات الإسلامية",
-        "name_en": "🕌 Islamic Studies",
-        "levels": [
-            {
-                "level": "⭐ قنوات مميزة",
-                "channels": [
-                    {"name": "The Daily Reminder", "why": "محاضرات إسلامية ملهمة", "content": "رقائق، إيمان", "for": "جميع المسلمين", "url": "https://youtube.com/@thedailyreminder"},
-                    {"name": "Omar Suleiman", "why": "دروس في السيرة والفقه", "content": "سيرة، فقه", "for": "طالب العلم", "url": "https://youtube.com/@dromarsuleiman"},
-                    {"name": "Yasir Qadhi", "why": "شروحات علمية معاصرة", "content": "عقيدة، تفسير", "for": "طلاب العلم", "url": "https://youtube.com/@YasirQadhi"},
-                    {"name": "Ali Hammuda", "why": "دروس في التزكية والإيمان", "content": "تزكية، إيمان", "for": "الشباب", "url": "https://youtube.com/@alihammuda"},
-                    {"name": "Nouman Ali Khan", "why": "تفسير القرآن بأسلوب فريد", "content": "تفسير، قرآن", "for": "محبي القرآن", "url": "https://youtube.com/@bayyinah"}
-                ]
-            }
-        ]
     }
 }
 
-CAT1_ORDER = ["entrepreneurship", "ecommerce", "digital_marketing", "ai", "programming", "graphic_design", "video_editing", "content_creation", "freelancing", "sales", "personal_finance", "english", "german", "islamic"]
+CAT1_ORDER = ["entrepreneurship", "ecommerce", "digital_marketing", "ai", "programming", "graphic_design", "video_editing", "content_creation", "freelancing", "sales", "personal_finance", "english", "german"]
 
 # ============================================================
 #  BOT 2 DATA  (library)
