@@ -605,7 +605,12 @@ def main_keyboard2():
 
 @router2.message(Command("start"), F.chat.type == "private")
 async def cmd_start2(msg: Message):
-    await msg.answer("📱 *اختر مجالك:*", reply_markup=main_keyboard2())
+    await msg.answer(
+        "📚 *Mindset Library*\n\n"
+        "أفضل الكتب لتنمية مهاراتك وتطوير نفسك\n\n"
+        "اختر مجالًا وستظهر لك أفضل الكتب فيه 👇",
+        reply_markup=main_keyboard2()
+    )
 
 @router2.message(Command("help"), F.chat.type == "private")
 async def cmd_help2(msg: Message):
