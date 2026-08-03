@@ -603,14 +603,16 @@ def main_keyboard2():
     kb.adjust(2)
     return kb.as_markup()
 
-@router2.message(Command("start"), F.chat.type == "private")
-async def cmd_start2(msg: Message):
-    await msg.answer(
+def library_welcome_text():
+    return (
         "📚 *Mindset Library*\n\n"
         "أفضل الكتب لتنمية مهاراتك وتطوير نفسك\n\n"
-        "اختر مجالًا وستظهر لك أفضل الكتب فيه 👇",
-        reply_markup=main_keyboard2()
+        "اختر مجالًا وستظهر لك أفضل الكتب فيه 👇"
     )
+
+@router2.message(Command("start"), F.chat.type == "private")
+async def cmd_start2(msg: Message):
+    await msg.answer(library_welcome_text(), reply_markup=main_keyboard2())
 
 @router2.message(Command("help"), F.chat.type == "private")
 async def cmd_help2(msg: Message):
@@ -618,11 +620,11 @@ async def cmd_help2(msg: Message):
 
 @router2.message(F.text == "📋 القائمة الرئيسية", F.chat.type == "private")
 async def menu_button2(msg: Message):
-    await msg.answer("📱 *اختر مجالك:*", reply_markup=main_keyboard2())
+    await msg.answer(library_welcome_text(), reply_markup=main_keyboard2())
 
 @router2.message(F.chat.type == "private")
 async def any_message2(msg: Message):
-    await msg.answer("📱 *اختر مجالك:*", reply_markup=main_keyboard2())
+    await msg.answer(library_welcome_text(), reply_markup=main_keyboard2())
 
 @router2.callback_query(F.data == "main_menu")
 async def cb_main_menu2(cq: CallbackQuery):
