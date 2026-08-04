@@ -102,7 +102,7 @@ CAT1 = {
                 "channels": [
                     {"name": "Alex Hormozi", "why": "أفضل قناة لفهم كيفية بناء العروض، التسعير، وزيادة الأرباح", "content": "عروض، تسعير، أرباح", "for": "رواد الأعمال", "url": "https://www.youtube.com/@AlexHormozi"},
                     {"name": "Flown Marketing", "why": "تركز على التسويق العملي، الإعلانات، واستراتيجيات تنمية المتاجر الإلكترونية", "content": "تسويق، إعلانات، استراتيجيات", "for": "أصحاب المتاجر", "url": "https://www.youtube.com/@flowndz"},
-                    {"name": "HubSpot", "why": "تعلم التسويق، المبيعات، وإدارة العملاء — مهارات أساسية لنجاح أي متجر", "content": "تسويق، مبيعات، عملاء", "for": "جميع المستويات", "url": "https://www.youtube.com/@HubSpotMarketing"},
+                    {"name": "HubSpot", "why": "تعلم التسويق، المبيعات، وإدارة العملاء — مهارات أساسية لنجاح أي متجر", "content": "تسويق، مبيعات، عملاء", "for": "جميع المستويات", "url": "https://www.youtube.com/@hubspotmarketing"},
                     {"name": "Google", "why": "تشرح أدوات Google التي يحتاجها أصحاب المتاجر مثل Analytics وMerchant Center", "content": "Google Analytics، أدوات، تحليلات", "for": "أصحاب المتاجر", "url": "https://www.youtube.com/@Google"},
                     {"name": "Meta for Business", "why": "المصدر الرسمي لتعلم إعلانات Facebook وInstagram", "content": "إعلانات، فيسبوك، إنستغرام", "for": "المعلنين", "url": "https://www.youtube.com/@MetaforBusiness"},
                     {"name": "Semrush", "why": "لتعلم SEO، وتحليل المنافسين، وزيادة الزيارات المجانية", "content": "SEO، تحليل منافسين", "for": "متخصصي التسويق", "url": "https://www.youtube.com/@semrush"},
@@ -131,7 +131,7 @@ CAT1 = {
                 "level": "⭐ قنوات مميزة",
                 "channels": [
                     {"name": "Neil Patel", "why": "خبير عالمي في التسويق الرقمي وتحسين محركات البحث", "content": "SEO، تسويق، تحليلات", "for": "المسوقين", "url": "https://youtube.com/@neilpatel"},
-                    {"name": "HubSpot", "why": "مصدر تعليمي رسمي لجميع مجالات التسويق", "content": "تسويق، مبيعات، خدمة عملاء", "for": "المبتدئين والمحترفين", "url": "https://youtube.com/@HubSpotMarketing"},
+                    {"name": "HubSpot", "why": "مصدر تعليمي رسمي لجميع مجالات التسويق", "content": "تسويق، مبيعات، خدمة عملاء", "for": "المبتدئين والمحترفين", "url": "https://youtube.com/@hubspotmarketing"},
                     {"name": "Semrush", "why": "SEO وتحسين ظهور المواقع في محركات البحث", "content": "SEO، محتوى، تحليلات", "for": "متخصصي SEO", "url": "https://youtube.com/@semrush"},
                     {"name": "Ahrefs", "why": "دروس متقدمة في SEO وبحث الكلمات المفتاحية", "content": "SEO، كلمات مفتاحية", "for": "متخصصي التسويق", "url": "https://youtube.com/@AhrefsCom"},
                     {"name": "Meta for Business", "why": "القناة الرسمية لتعلم إعلانات ميتا", "content": "فيسبوك، إنستغرام، إعلانات", "for": "المعلنين", "url": "https://youtube.com/@metaforbusiness"}
@@ -290,7 +290,7 @@ CAT1 = {
                     {"name": "Learn English with TV Series", "why": "تعلم الإنجليزية من الأفلام والمسلسلات بطريقة ممتعة", "content": "مفردات، نطق، تعبيرات عامية", "for": "محبي الأفلام والمسلسلات", "url": "https://www.youtube.com/@LearnEnglishWithTVSeries"},
                     {"name": "EnglishClass101", "why": "دروس منظمة للمحادثة والاستماع والمفردات", "content": "محادثة، استماع، مفردات", "for": "المبتدئين والمتوسطين", "url": "https://www.youtube.com/@EnglishClass101"},
                     {"name": "Rachel's English", "why": "أفضل قناة لتحسين النطق الأمريكي", "content": "نطق أمريكي، لكنة، محادثة", "for": "تحسين النطق", "url": "https://www.youtube.com/@rachelsenglish"},
-                    {"name": "mmmEnglish", "why": "تشرح المحادثة والقواعد والأخطاء الشائعة بطريقة عملية", "content": "محادثة، قواعد، أخطاء شائعة", "for": "المتوسطين", "url": "https://www.youtube.com/c/mmmEnglish_Emma"},
+                    {"name": "mmmEnglish", "why": "تشرح المحادثة والقواعد والأخطاء الشائعة بطريقة عملية", "content": "محادثة، قواعد، أخطاء شائعة", "for": "المتوسطين", "url": "https://www.youtube.com/@mmmEnglish"},
                     {"name": "English with Jennifer", "why": "دروس هادئة ومنظمة لتطوير القواعد والمحادثة", "content": "قواعد، محادثة، دروس منظمة", "for": "جميع المستويات", "url": "https://www.youtube.com/@Englishwithjennifer"}
                 ]
             },
