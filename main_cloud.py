@@ -246,7 +246,7 @@ CAT1 = {
                     {"name": "Jordan Belfort", "why": "نظام المبيعات الخطي", "content": "مبيعات، إقناع", "for": "محترفي المبيعات", "url": "https://youtube.com/@jordanbelfortofficial"},
                     {"name": "Dan Lok", "why": "خبير في الإقناع", "content": "مبيعات، قيادة", "for": "رواد الأعمال", "url": "https://youtube.com/@danlok"},
                     {"name": "Victor Antonio", "why": "استراتيجيات مبيعات B2B", "content": "B2B، تفاوض", "for": "محترفي B2B", "url": "https://youtube.com/@victorantonio"},
-                    {"name": "Chris Voss", "why": "تقنيات تفاوض من FBI", "content": "تفاوض، اتصال", "for": "الجميع", "url": "https://youtube.com/@chrisvoss"}
+                    {"name": "Chris Voss", "why": "تقنيات تفاوض من FBI — أفضل مصدر لتعلم فن التفاوض والإقناع", "content": "تفاوض، اتصال، إقناع", "for": "الجميع", "url": "https://youtube.com/@Blackswanltd1"}
                 ]
             }
         ]
