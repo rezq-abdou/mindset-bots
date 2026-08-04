@@ -595,6 +595,8 @@ async def cb_show_channel1(cq: CallbackQuery):
 
 router2 = Router()
 
+REGISTERED_FILES = {}
+
 def main_keyboard2():
     kb = InlineKeyboardBuilder()
     for key in CAT2_ORDER:
@@ -621,6 +623,26 @@ async def cmd_help2(msg: Message):
 @router2.message(F.text == "📋 القائمة الرئيسية", F.chat.type == "private")
 async def menu_button2(msg: Message):
     await msg.answer(library_welcome_text(), reply_markup=main_keyboard2())
+
+@router2.message(Command("files"), F.chat.type == "private")
+async def cmd_files(msg: Message):
+    if not REGISTERED_FILES:
+        await msg.answer("لا توجد ملفات مسجلة بعد. أرسل الكتب كملفات PDF وسيتم حفظها تلقائياً.")
+        return
+    lines = [f"{i+1}. `{name}`\n   `{fid}`" for i, (name, fid) in enumerate(REGISTERED_FILES.items())]
+    await msg.answer("📚 *الملفات المسجلة:*\n\n" + "\n".join(lines))
+
+@router2.message(F.document, F.chat.type == "private")
+async def collect_document(msg: Message):
+    doc = msg.document
+    fid = doc.file_id
+    fname = doc.file_name or "ملف"
+    REGISTERED_FILES[fname] = fid
+    await msg.answer(
+        f"📁 *تم استلام الملف:* `{fname}`\n"
+        f"`file_id: {fid}`\n\n"
+        f"اكتب /files لعرض جميع الملفات المسجلة."
+    )
 
 @router2.message(F.chat.type == "private")
 async def any_message2(msg: Message):
@@ -661,16 +683,24 @@ async def cb_show_book(cq: CallbackQuery):
         await cq.answer("الكتاب غير موجود", show_alert=True)
         return
     book = books[idx]
-    text = (
-        f"📖 *{book['title']}*\n\n"
-        f"{book['description']}\n\n"
-        f"🔗 [اضغط هنا لتحميل PDF]({book['url']})"
-    )
     kb = InlineKeyboardBuilder()
     kb.button(text="🔙 رجوع للكتب", callback_data=f"cat_{cat_key}")
     kb.button(text="🏠 القائمة الرئيسية", callback_data="main_menu")
     kb.adjust(1)
-    await cq.message.edit_text(text, parse_mode="Markdown", reply_markup=kb.as_markup(), disable_web_page_preview=False)
+    if book.get("file_id"):
+        text = (
+            f"📖 *{book['title']}*\n\n"
+            f"{book['description']}"
+        )
+        await cq.message.edit_text(text, parse_mode="Markdown", reply_markup=kb.as_markup())
+        await cq.message.answer_document(book["file_id"], caption=f"📖 {book['title']}")
+    else:
+        text = (
+            f"📖 *{book['title']}*\n\n"
+            f"{book['description']}\n\n"
+            f"🔗 [اضغط هنا لتحميل PDF]({book['url']})"
+        )
+        await cq.message.edit_text(text, parse_mode="Markdown", reply_markup=kb.as_markup(), disable_web_page_preview=False)
 
 # ============================================================
 #  HEALTH SERVER + MAIN
