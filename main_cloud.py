@@ -334,7 +334,7 @@ CAT2 = {
         "name_ar": "🚀 ريادة الأعمال",
         "name_en": "🚀 Entrepreneurship",
         "books": [
-            {"title": "كيف تصبح قائداً استراتيجياً", "description": "دليل شامل لتطوير مهارات القيادة الاستراتيجية واتخاذ القرارات الحاسمة في عالم الأعمال.", "url": "https://example.com/strategic-leader.pdf"},
+            {"title": "كيف تصبح قائداً استراتيجياً", "description": "دليل شامل لتطوير مهارات القيادة الاستراتيجية واتخاذ القرارات الحاسمة في عالم الأعمال.", "url": "https://drive.google.com/file/d/1rKdXUFd_iWaohghOHGg3gA_-XdA-ymk1/preview"},
             {"title": "كيف تصبح مديراً عاماً", "description": "خطوات عملية للانتقال من مدير تنفيذي إلى مدير عام ناجح يدير الفرق والمشاريع بكفاءة.", "url": "https://example.com/general-manager.pdf"},
             {"title": "المهارات الإدارية ومهارة التعامل مع الآخرين", "description": "أساسيات الإدارة الحديثة ومهارات التواصل الفعال مع الزملاء والمرؤوسين والعملاء.", "url": "https://example.com/management-skills.pdf"},
             {"title": "فن اختيار أفضل الموظفين", "description": "استراتيجيات توظيف ذكية — كيف تختار الشخص المناسب للوظيفة المناسبة.", "url": "https://example.com/hiring.pdf"},
