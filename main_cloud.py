@@ -29,7 +29,7 @@ CAT1 = {
                 "channels": [
                     {"name": "الألمانية مع مستر شحاتة", "why": "أفضل قناة عربية لتأسيس اللغة من الصفر مع شرح مبسط للقواعد والمفردات", "content": "قواعد، مفردات، تأسيس", "for": "المبتدئين من الصفر", "url": "https://www.youtube.com/@MohammadShehata"},
                     {"name": "Deutsch mit Mira", "why": "شرح عربي حديث وممتع مع تركيز على المحادثة والنطق", "content": "محادثة، نطق، قواعد", "for": "المبتدئين", "url": "https://www.youtube.com/@DeutschmitMira"},
-                    {"name": "تعلم الألمانية مع حمزة", "why": "مناسبة للمبتدئين مع تمارين وأمثلة عملية", "content": "تمارين، أمثلة، محادثة", "for": "المبتدئين", "url": "https://www.youtube.com/@DeutschMitHamza19"},
+                    {"name": "Deutsch mit Hend", "why": "تعلم الألمانية مجاناً وبنظام وبساطة مع شرح عربي مناسب للمبتدئين", "content": "قواعد، محادثة، مبتدئين", "for": "المبتدئين", "url": "https://www.youtube.com/@FrauHendTaha"},
                     {"name": "Learn German", "why": "أفضل قناة أجنبية لبناء أساس قوي في القواعد والمفردات", "content": "قواعد، مفردات، تأسيس", "for": "بناء أساس قوي", "url": "https://www.youtube.com/@LearnGermanOriginal"},
                     {"name": "DW Learn German", "why": "منهج مجاني ورسمي من مؤسسة ألمانية، يغطي المستويات من A1 إلى C1", "content": "منهج متكامل، قواعد، تمارين", "for": "جميع المستويات", "url": "https://www.youtube.com/@dwlearngerman"},
                     {"name": "Lingoni German", "why": "دروس مرتبة وسهلة مع شرح واضح للقواعد والنطق", "content": "قواعد، نطق، دروس منظمة", "for": "الانتقال من A1 إلى B1", "url": "https://www.youtube.com/@lingonigerman"}
@@ -78,7 +78,7 @@ CAT1 = {
                     {"name": "Gary Vaynerchuk", "why": "تسويق رقمي وريادة أعمال ونصائح عملية", "content": "تسويق، علامة تجارية، ريادة", "for": "المسوقين وأصحاب المشاريع", "url": "https://youtube.com/@garyvee"},
                     {"name": "Y Combinator", "why": "نصائح من أكبر مسرعة شركات ناشئة في العالم", "content": "شركات ناشئة، تمويل، نمو", "for": "مؤسسي الشركات الناشئة", "url": "https://youtube.com/@ycombinator"},
                     {"name": "Stanford Entrepreneurship", "why": "محتوى أكاديمي من جامعة ستانفورد", "content": "ريادة، ابتكار، قيادة", "for": "من يريد تعليماً أكاديمياً", "url": "https://youtube.com/@stanfordgsb"},
-                    {"name": "The Lean Startup", "why": "منهجية الشركات الناشئة الرشيقة", "content": "منهجيات ريادية", "for": "مؤسسي الشركات", "url": "https://youtube.com/@leanstartupcompany"}
+                    {"name": "Noah Kagan", "why": "تجارب عملية في بناء المشاريع وزيادة الأرباح وبناء الثروة", "content": "مشاريع، أرباح، ثروة", "for": "رواد الأعمال", "url": "https://youtube.com/@noahkagan"}
                 ]
             }
         ]
@@ -226,11 +226,11 @@ CAT1 = {
             {
                 "level": "⭐ قنوات مميزة",
                 "channels": [
-                    {"name": "FreelanceU", "why": "دروس شاملة في العمل الحر وإيجاد العملاء", "content": "فريلانس، مشاريع، عملاء", "for": "المستقلين", "url": "https://youtube.com/@freelanceu"},
+                    {"name": "The Futur", "why": "أفضل قناة لتعلم فن البيع والتصميم وبناء العلامات التجارية من Chris Do", "content": "فريلانس، براندينغ، بيع", "for": "المستقلين والمصممين", "url": "https://youtube.com/@thefutur"},
                     {"name": "Biaheza", "why": "تجارب واقعية في الربح من الإنترنت", "content": "دروبشيبينغ، فريلانس", "for": "من يريد الربح", "url": "https://youtube.com/@biaheza"},
                     {"name": "Charlie Morgan", "why": "نصائح في العمل الحر", "content": "فريلانس، تسويق", "for": "المستقلين", "url": "https://youtube.com/@charliemofficial"},
                     {"name": "Josh Burns", "why": "استراتيجيات الفوز بالمشاريع", "content": "عروض، مشاريع", "for": "مستقلين Upwork", "url": "https://youtube.com/@joshburns"},
-                    {"name": "Mostafa Essam", "why": "محتوى عربي في العمل الحر", "content": "فريلانس عربي", "for": "المتحدثين بالعربية", "url": "https://youtube.com/@mostafaessam"}
+                    {"name": "HBA Services", "why": "قناة ضخمة تقدم محتوى عملي في العمل الحر والتسويق الرقمي وبناء الدخل من الإنترنت", "content": "فريلانس، تسويق رقمي، دخل", "for": "المبتدئين والمحترفين", "url": "https://youtube.com/@hbaservices"}
                 ]
             }
         ]
@@ -285,7 +285,7 @@ CAT1 = {
             {
                 "level": "🟡 المستوى الثاني: المتوسط (B1 - B2)",
                 "channels": [
-                    {"name": "English Teacher Karim", "why": "يركز على المحادثة والقواعد والتطبيقات العملية باللغة العربية", "content": "محادثة، قواعد، تطبيقات", "for": "المتوسطين", "url": "https://www.youtube.com/results?search_query=English+Teacher+Karim"},
+                    {"name": "English With Khaled", "why": "قناة عربية بجودة عالية لتعلم الإنجليزية بأسلوب محترف وسهل لجميع المستويات", "content": "قواعد، محادثة، شرح عربي", "for": "جميع المستويات", "url": "https://www.youtube.com/@englishwithkhaled"},
                     {"name": "Oxford Online English", "why": "دروس احترافية في الإنجليزية العامة والمهنية", "content": "قواعد، محادثة، إنجليزية مهنية", "for": "المتوسطين والمحترفين", "url": "https://www.youtube.com/@Oxfordonlineenglish1"},
                     {"name": "Learn English with TV Series", "why": "تعلم الإنجليزية من الأفلام والمسلسلات بطريقة ممتعة", "content": "مفردات، نطق، تعبيرات عامية", "for": "محبي الأفلام والمسلسلات", "url": "https://www.youtube.com/@LearnEnglishWithTVSeries"},
                     {"name": "EnglishClass101", "why": "دروس منظمة للمحادثة والاستماع والمفردات", "content": "محادثة، استماع، مفردات", "for": "المبتدئين والمتوسطين", "url": "https://www.youtube.com/@EnglishClass101"},
