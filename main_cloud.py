@@ -27,7 +27,7 @@ CAT1 = {
             {
                 "level": "🟢 المستوى الأول: المبتدئ (A1 - A2)",
                 "channels": [
-                    {"name": "الألمانية مع مستر شحاتة", "why": "أفضل قناة عربية لتأسيس اللغة من الصفر مع شرح مبسط للقواعد والمفردات", "content": "قواعد، مفردات، تأسيس", "for": "المبتدئين من الصفر", "url": "https://www.youtube.com/@MohammadShehata"},
+                    {"name": "الألمانية مع مستر شحاتة", "why": "أفضل قناة عربية لتأسيس اللغة من الصفر مع شرح مبسط للقواعد والمفردات", "content": "قواعد، مفردات، تأسيس", "for": "المبتدئين من الصفر", "url": "https://www.youtube.com/@mohammadshehata-official"},
                     {"name": "Deutsch mit Mira", "why": "شرح عربي حديث وممتع مع تركيز على المحادثة والنطق", "content": "محادثة، نطق، قواعد", "for": "المبتدئين", "url": "https://www.youtube.com/@DeutschmitMira"},
                     {"name": "Deutsch mit Hend", "why": "تعلم الألمانية مجاناً وبنظام وبساطة مع شرح عربي مناسب للمبتدئين", "content": "قواعد، محادثة، مبتدئين", "for": "المبتدئين", "url": "https://www.youtube.com/@FrauHendTaha"},
                     {"name": "Learn German", "why": "أفضل قناة أجنبية لبناء أساس قوي في القواعد والمفردات", "content": "قواعد، مفردات، تأسيس", "for": "بناء أساس قوي", "url": "https://www.youtube.com/@LearnGermanOriginal"},
