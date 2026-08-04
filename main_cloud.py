@@ -324,52 +324,52 @@ CAT2 = {
         "name_en": "📚 English Books",
         "books": [
             {"title": "Dictionary", "description": "قاموس إنجليزي-عربي شامل — يحتوي على آلاف الكلمات مع النطق والترجمة.", "url": "https://example.com/dictionary.pdf"},
-            {"title": "Grammar", "description": "قواعد اللغة الإنجليزية كاملة — شرح مبسط لجميع القواعد مع تمارين تطبيقية.", "url": "https://example.com/grammar.pdf"},
+            {"title": "Grammar", "description": "قواعد اللغة الإنجليزية كاملة — شرح مبسط لجميع القواعد مع تمارين تطبيقية.", "url": "https://example.com/grammar.pdf", "file_id": "BQACAgQAAxkBAAOQanInVr5u3JZzLZCJH-gGx5OkWpMAAmAEAAIEsRhS2o7LhCUbnmE9BA"},
             {"title": "IELTS", "description": "دليل اختبار IELTS — نصائح واستراتيجيات للتحضير للامتحان.", "url": "https://example.com/ielts.pdf"},
-            {"title": "1000 فعل إنجليزي مستخدم في حياتنا اليومية", "description": "أكثر 1000 فعل استخداماً في اللغة الإنجليزية مع الترجمة والنطق.", "url": "https://example.com/1000-verbs.pdf"},
-            {"title": "موسوعة الشامل في تعليم اللغة الإنجليزية", "description": "دليل شامل من الصفر إلى الاحتراف — قواعد، مفردات، محادثة.", "url": "https://example.com/mawsoa.pdf"}
+            {"title": "1000 فعل إنجليزي مستخدم في حياتنا اليومية", "description": "أكثر 1000 فعل استخداماً في اللغة الإنجليزية مع الترجمة والنطق.", "url": "https://example.com/1000-verbs.pdf", "file_id": "BQACAgIAAxkBAAOSanInVoeW7QI9_9TrbK8C-HBcZzYAArcCAANhWEknOs5vzlYtAj0E"},
+            {"title": "موسوعة الشامل في تعليم اللغة الإنجليزية", "description": "دليل شامل من الصفر إلى الاحتراف — قواعد، مفردات، محادثة.", "url": "https://example.com/mawsoa.pdf", "file_id": "BQACAgIAAxkBAAOTanInVsKOAvm4hEltIN4-rs64e-4AArYCAANhWEm8UU71U10tHz0E"}
         ]
     },
     "entrepreneurship": {
         "name_ar": "🚀 ريادة الأعمال",
         "name_en": "🚀 Entrepreneurship",
         "books": [
-            {"title": "كيف تصبح قائداً استراتيجياً", "description": "دليل شامل لتطوير مهارات القيادة الاستراتيجية واتخاذ القرارات الحاسمة في عالم الأعمال.", "url": "https://drive.google.com/uc?export=download&id=1rKdXUFd_iWaohghOHGg3gA_-XdA-ymk1"},
+            {"title": "كيف تصبح قائداً استراتيجياً", "description": "دليل شامل لتطوير مهارات القيادة الاستراتيجية واتخاذ القرارات الحاسمة في عالم الأعمال.", "url": "https://drive.google.com/uc?export=download&id=1rKdXUFd_iWaohghOHGg3gA_-XdA-ymk1", "file_id": "BQACAgQAAxkBAAOKanInVtp-wza_-j8Dqunc-Gqvv20AAnASAAKtu0lRPHOz0TG3Usc9BA"},
             {"title": "كيف تصبح مديراً عاماً", "description": "خطوات عملية للانتقال من مدير تنفيذي إلى مدير عام ناجح يدير الفرق والمشاريع بكفاءة.", "url": "https://example.com/general-manager.pdf"},
             {"title": "المهارات الإدارية ومهارة التعامل مع الآخرين", "description": "أساسيات الإدارة الحديثة ومهارات التواصل الفعال مع الزملاء والمرؤوسين والعملاء.", "url": "https://example.com/management-skills.pdf"},
-            {"title": "فن اختيار أفضل الموظفين", "description": "استراتيجيات توظيف ذكية — كيف تختار الشخص المناسب للوظيفة المناسبة.", "url": "https://example.com/hiring.pdf"},
-            {"title": "التفكير المستقبلي", "description": "منهجيات التخطيط الاستراتيجي والتفكير طويل المدى لبناء مستقبل مؤسستك.", "url": "https://example.com/future-thinking.pdf"}
+            {"title": "فن اختيار أفضل الموظفين", "description": "استراتيجيات توظيف ذكية — كيف تختار الشخص المناسب للوظيفة المناسبة.", "url": "https://example.com/hiring.pdf", "file_id": "BQACAgQAAxkBAAONanInVq9ksBHxUw7l6QEifg9b6PgAAmcRAAIhEIlSRWJp3GDjHKo9BA"},
+            {"title": "التفكير المستقبلي", "description": "منهجيات التخطيط الاستراتيجي والتفكير طويل المدى لبناء مستقبل مؤسستك.", "url": "https://example.com/future-thinking.pdf", "file_id": "BQACAgQAAxkBAAOOanInVsEDmosuq_r7T2sRFVeWqwwAAo4OAAJ1vjFQn0gza-c8Vmw9BA"}
         ]
     },
     "german": {
         "name_ar": "🇩🇪 اللغة الألمانية",
         "name_en": "🇩🇪 German",
         "books": [
-            {"title": "تعلم اللغة الألمانية", "description": "كتاب شامل لتعلم اللغة الألمانية من الصفر — يغطي الأساسيات والمفردات اليومية.", "url": "https://example.com/german-1.pdf"},
-            {"title": "اللغة الألمانية", "description": "مرجع متكامل لتعلم اللغة الألمانية — قواعد، محادثة، ونطق.", "url": "https://example.com/german-2.pdf"},
-            {"title": "قواعد اللغة الألمانية للمبتدئين والمتقدم", "description": "شرح كامل لقواعد اللغة الألمانية يناسب جميع المستويات — من المبتدئ إلى المتقدم.", "url": "https://example.com/german-grammar.pdf"},
+            {"title": "تعلم اللغة الألمانية", "description": "كتاب شامل لتعلم اللغة الألمانية من الصفر — يغطي الأساسيات والمفردات اليومية.", "url": "https://example.com/german-1.pdf", "file_id": "BQACAgIAAxkBAAOUanInVmJl4CM90pp79DbIS25IWqcAAiMCAAIGMzhKAwE-OECYrIA9BA"},
+            {"title": "اللغة الألمانية", "description": "مرجع متكامل لتعلم اللغة الألمانية — قواعد، محادثة، ونطق.", "url": "https://example.com/german-2.pdf", "file_id": "BQACAgIAAxkBAAOVanInVr0gu7fh07gGNdwzftUS70QAAiUCAAIGMzhK55kEd3XWP7I9BA"},
+            {"title": "قواعد اللغة الألمانية للمبتدئين والمتقدم", "description": "شرح كامل لقواعد اللغة الألمانية يناسب جميع المستويات — من المبتدئ إلى المتقدم.", "url": "https://example.com/german-grammar.pdf", "file_id": "BQACAgIAAxkBAAOWanInVuKzk6xJAAFQyPIWyoaWlP0jAAIBAAMolwELdAulb33yDx89BA"},
             {"title": "أدوات الاستفهام في اللغة الألمانية", "description": "دروس وأمثلة حول أدوات الاستفهام واستخداماتها في اللغة الألمانية.", "url": "https://example.com/german-question.pdf"},
-            {"title": "كورس تعلم اللغة الألمانية", "description": "دورة متكاملة لتعلم اللغة الألمانية — دروس مرتبة ومتسلسلة من البداية إلى الاحتراف.", "url": "https://example.com/german-course.pdf"}
+            {"title": "كورس تعلم اللغة الألمانية", "description": "دورة متكاملة لتعلم اللغة الألمانية — دروس مرتبة ومتسلسلة من البداية إلى الاحتراف.", "url": "https://example.com/german-course.pdf", "file_id": "BQACAgIAAxkBAAOYanInVs0VyMi23YF4q58ZamwT0HEAArAAA7fLgEotmL8S6jh_kz0E"}
         ]
     },
     "digital_marketing": {
         "name_ar": "📈 التسويق الرقمي",
         "name_en": "📈 Digital Marketing",
         "books": [
-            {"title": "الدليل الاحترافي لاستراتيجية التسويق الرقمي", "description": "دليل متكامل لوضع وتنفيذ استراتيجيات التسويق الرقمي الناجحة.", "url": "https://example.com/digital-strategy.pdf"},
-            {"title": "التسويق عبر الإنترنت", "description": "أساسيات التسويق الإلكتروني وأفضل الممارسات للوصول إلى الجمهور المستهدف.", "url": "https://example.com/online-marketing.pdf"},
-            {"title": "احترف التسويق الإلكتروني", "description": "دورات متقدمة في التسويق الإلكتروني — من المبتدئ إلى الاحتراف.", "url": "https://example.com/master-e-marketing.pdf"},
+            {"title": "الدليل الاحترافي لاستراتيجية التسويق الرقمي", "description": "دليل متكامل لوضع وتنفيذ استراتيجيات التسويق الرقمي الناجحة.", "url": "https://example.com/digital-strategy.pdf", "file_id": "BQACAgQAAxkBAAOZanInVrGT82c1cXIkcE9hysgWQsAAAncFAAJjephRI7a26MeMaLg9BA"},
+            {"title": "التسويق عبر الإنترنت", "description": "أساسيات التسويق الإلكتروني وأفضل الممارسات للوصول إلى الجمهور المستهدف.", "url": "https://example.com/online-marketing.pdf", "file_id": "BQACAgUAAxkBAAOaanInVsBdOUqoPlLErezuj2HN-IkAApEAA8oP0VUpiVbV5L0MCz0E"},
+            {"title": "احترف التسويق الإلكتروني", "description": "دورات متقدمة في التسويق الإلكتروني — من المبتدئ إلى الاحتراف.", "url": "https://example.com/master-e-marketing.pdf", "file_id": "BQACAgQAAxkBAAObanInVi7mLZRXfWYGNCD-IZABYuEAAhkIAAL4rhFQx7WUGMBBk-89BA"},
             {"title": "استراتيجية التسويق الإلكتروني", "description": "خطط واستراتيجيات فعالة لتنمية الأعمال عبر القنوات الرقمية.", "url": "https://example.com/e-marketing-strategy.pdf"},
-            {"title": "فن التسويق في المشاريع الصغيرة", "description": "أساليب تسويقية مبتكرة ومناسبة للمشاريع الصغيرة بميزانية محدودة.", "url": "https://example.com/small-business-marketing.pdf"}
+            {"title": "فن التسويق في المشاريع الصغيرة", "description": "أساليب تسويقية مبتكرة ومناسبة للمشاريع الصغيرة بميزانية محدودة.", "url": "https://example.com/small-business-marketing.pdf", "file_id": "BQACAgQAAxkBAAOdanInVo2rxBeu3wEvBi3GDLp9AeYAAkACAAKPaqBRKza9lNRe3wY9BA"}
         ]
     },
     "personal_finance": {
         "name_ar": "💰 التمويل الشخصي والاستثمار",
         "name_en": "💰 Personal Finance & Investment",
         "books": [
-            {"title": "أغنى رجل في بابل", "description": "كتاب كلاسيكي عن أساسيات إدارة المال والتوفير والاستثمار — دروس من حضارة بابل القديمة.", "url": "https://example.com/richest-man-in-babylon.pdf"},
-            {"title": "تحويل الابتكار إلى أموال", "description": "كيف تحول أفكارك الإبداعية إلى مصادر دخل حقيقية — استراتيجيات monetizing الابتكار.", "url": "https://example.com/innovation-to-money.pdf"},
-            {"title": "اصنع المزيد من المال", "description": "طرق عملية لزيادة دخلك وبناء ثروة — من التوفير إلى الاستثمار الذكي.", "url": "https://example.com/make-more-money.pdf"},
+            {"title": "أغنى رجل في بابل", "description": "كتاب كلاسيكي عن أساسيات إدارة المال والتوفير والاستثمار — دروس من حضارة بابل القديمة.", "url": "https://example.com/richest-man-in-babylon.pdf", "file_id": "BQACAgQAAxkBAAOianInVgWPm46bSqZwlCW18yBwPSIAAt8AA6lYkVNHZxG9XX4upT0E"},
+            {"title": "تحويل الابتكار إلى أموال", "description": "كيف تحول أفكارك الإبداعية إلى مصادر دخل حقيقية — استراتيجيات monetizing الابتكار.", "url": "https://example.com/innovation-to-money.pdf", "file_id": "BQACAgQAAxkBAAOjanInVqhBNEA_A3McC3PqyLZulcUAAn8UAALVDplRfHZqBgAB9PcWPQQ"},
+            {"title": "اصنع المزيد من المال", "description": "طرق عملية لزيادة دخلك وبناء ثروة — من التوفير إلى الاستثمار الذكي.", "url": "https://example.com/make-more-money.pdf", "file_id": "BQACAgQAAxkBAAOkanInVqASpDY_OQhTMnQSA7JrkyAAAigIAAKp6VEAATMnS2Zx5VO7PQQ"},
             {"title": "ابنِ عضلاتك المالية", "description": "تمرينات مالية لتعزيز صحتك المالية — بناء عادات مالية قوية ومتينة.", "url": "https://example.com/financial-muscles.pdf"},
             {"title": "البيع على طريقة الأذكياء", "description": "استراتيجيات بيع ذكية ومبتكرة — كيف تبيع بفعالية وتحقق أرباحاً أعلى.", "url": "https://example.com/smart-selling.pdf"}
         ]
@@ -378,18 +378,18 @@ CAT2 = {
         "name_ar": "🤖 الذكاء الاصطناعي",
         "name_en": "🤖 Artificial Intelligence",
         "books": [
-            {"title": "تعلم الذكاء الاصطناعي", "description": "دليل شامل لتعلم أساسيات الذكاء الاصطناعي — من المفاهيم إلى التطبيقات العملية.", "url": "https://example.com/learn-ai.pdf"},
-            {"title": "نموذج الذكاء الاصطناعي ChatGPT", "description": "شرح كامل لنموذج ChatGPT — كيفية استخدامه وتوظيفه في العمل والحياة اليومية.", "url": "https://example.com/chatgpt-model.pdf"}
+            {"title": "تعلم الذكاء الاصطناعي", "description": "دليل شامل لتعلم أساسيات الذكاء الاصطناعي — من المفاهيم إلى التطبيقات العملية.", "url": "https://example.com/learn-ai.pdf", "file_id": "BQACAgQAAxkBAAOranInVp7E4S94MrcGAAF-8rgw11O2AAKhAwACIHNIUVXXSORTtVSyPQQ"},
+            {"title": "نموذج الذكاء الاصطناعي ChatGPT", "description": "شرح كامل لنموذج ChatGPT — كيفية استخدامه وتوظيفه في العمل والحياة اليومية.", "url": "https://example.com/chatgpt-model.pdf", "file_id": "BQACAgIAAxkBAAOsanInVo5CQhNBjTn14pS0ms-bYNEAAjFIAAKneoFISKMQEVEQykc9BA"}
         ]
     },
     "freelancing": {
         "name_ar": "💼 العمل الحر",
         "name_en": "💼 Freelancing",
         "books": [
-            {"title": "الأب الغني والأب الفقير", "description": "كتاب تحويلي عن الفروقات في tư duy المال بين الأغنياء والفقراء — دروس أساسي عن الحرية المالية.", "url": "https://example.com/rich-dad-poor-dad.pdf"},
-            {"title": "دليل الاستثمار للأب الغني", "description": "استراتيجيات استثمار متقدمة من سلسلة الأب الغني — كيف تبني ثروة عبر الاستثمار الذكي.", "url": "https://example.com/rich-dad-guide-investing.pdf"},
+            {"title": "الأب الغني والأب الفقير", "description": "كتاب تحويلي عن الفروقات في tư duy المال بين الأغنياء والفقراء — دروس أساسي عن الحرية المالية.", "url": "https://example.com/rich-dad-poor-dad.pdf", "file_id": "BQACAgQAAxkBAAOnanInVqMUvO-StwlwKyMfyCs6LnAAArsLAAJcP7lTpN3TY-sUrHM9BA"},
+            {"title": "دليل الاستثمار للأب الغني", "description": "استراتيجيات استثمار متقدمة من سلسلة الأب الغني — كيف تبني ثروة عبر الاستثمار الذكي.", "url": "https://example.com/rich-dad-guide-investing.pdf", "file_id": "BQACAgQAAxkBAAOoanInVi5kHBRe3Ub3oKFaiSYb8CQAAhAOAAL2FhBQLmC2doxS4jM9BA"},
             {"title": "فكر وازدد ثراء", "description": "كتاب كلاسيكي عن قوة التفكير الإيجابي ودوره في بناء الثروة — من نابليون هيل.", "url": "https://example.com/think-and-grow-rich.pdf"},
-            {"title": "سيكولوجية المال", "description": "فهم كيف يؤثر تفكيرنا وسلوكنا على قراراتنا المالية — دروس من مورغان هاوسل.", "url": "https://example.com/psychology-of-money.pdf"}
+            {"title": "سيكولوجية المال", "description": "فهم كيف يؤثر تفكيرنا وسلوكنا على قراراتنا المالية — دروس من مورغان هاوسل.", "url": "https://example.com/psychology-of-money.pdf", "file_id": "BQACAgQAAxkBAAOqanInVo1WflPizBlpzQWn5GlJ-9gAAkkNAALEZllRq17-Vr7NN549BA"}
         ]
     },
     "sales": {
@@ -399,17 +399,17 @@ CAT2 = {
             {"title": "أسرار المبيعات", "description": "أسرار وتقنيات مخفية يستخدمها أفضل مندوبي المبيعات للفوز بالصفقات وزيادة الأرباح.", "url": "https://example.com/sales-secrets.pdf"},
             {"title": "المبيعات العملاقة", "description": "استراتيجيات متقدمة لتنمية المبيعات وتحقيق أرقام قياسية في الإيرادات.", "url": "https://example.com/big-sales.pdf"},
             {"title": "151 فكرة سريعة لزيادة المبيعات", "description": "مجموعة من أفكار عملية وسريعة التطبيق لرفع المبيعات وتحسين الأداء التجاري.", "url": "https://example.com/151-sales-ideas.pdf"},
-            {"title": "دراسة السوق", "description": "كيف تحلل السوق وتفهم احتياجات العملاء لتطوير استراتيجيات بيع فعالة.", "url": "https://example.com/market-study.pdf"}
+            {"title": "دراسة السوق", "description": "كيف تحلل السوق وتفهم احتياجات العملاء لتطوير استراتيجيات بيع فعالة.", "url": "https://example.com/market-study.pdf", "file_id": "BQACAgQAAxkBAAOganInVqoverwpQOzBP4NRu6G-3ggAApcAAzdI2VDhvF5UEo0RmD0E"}
         ]
     },
     "mindset": {
         "name_ar": "🧠 عقليتك",
         "name_en": "🧠 Your Mindset",
         "books": [
-            {"title": "قوة عقلك الباطن", "description": "اكتشف القوة الهائلة المخفية في عقلك الباطن — كيف تستخدمها لتحقيق أهدافك وطموحاتك.", "url": "https://example.com/power-subconscious-mind.pdf"},
+            {"title": "قوة عقلك الباطن", "description": "اكتشف القوة الهائلة المخفية في عقلك الباطن — كيف تستخدمها لتحقيق أهدافك وطموحاتك.", "url": "https://example.com/power-subconscious-mind.pdf", "file_id": "BQACAgQAAxkBAAOtanInVkBzvNaRj7f5ncWcBzJ1cLoAAlYBAAK1TRwBG3OT4QXglf49BA"},
             {"title": "العادات الذرية", "description": "كيف تبني عادات إيجابية صغيرة تحقق نتائج كبيرة — دليل جيمس كلير للتغيير الفعال.", "url": "https://example.com/atomic-habits.pdf"},
-            {"title": "إعادة ضبط شغفك", "description": "كيف تستعيد حماسك وشغفك بالحياة والعمل — خطوات عملية لإعادة التصميم الداخلي.", "url": "https://example.com/reset-passion.pdf"},
-            {"title": "العقل المدبر", "description": "فهم كيف يعمل عقلك وكيف تتحكم في أفكارك — أساليب ذكية لإدارة العقل والمشاعر.", "url": "https://example.com/intelligent-mind.pdf"},
+            {"title": "إعادة ضبط شغفك", "description": "كيف تستعيد حماسك وشغفك بالحياة والعمل — خطوات عملية لإعادة التصميم الداخلي.", "url": "https://example.com/reset-passion.pdf", "file_id": "BQACAgIAAxkBAAOvanInVkiEnWnkOdQBOVbUVpW_j1MAAi0_AAL4LiFLAWNkItNe2IA9BA"},
+            {"title": "العقل المدبر", "description": "فهم كيف يعمل عقلك وكيف تتحكم في أفكارك — أساليب ذكية لإدارة العقل والمشاعر.", "url": "https://example.com/intelligent-mind.pdf", "file_id": "BQACAgQAAxkBAAOwanInVk3yRwNgF4mgzQ4USm9fOPYAApsEAAKc28lRSjkTCGh4l8M9BA"},
             {"title": "النجاح هو لك", "description": "دليل عملي لبناء الثقة بالنفس وتحقيق النجاح في جميع جوانب الحياة.", "url": "https://example.com/success-is-yours.pdf"}
         ]
     },
@@ -417,21 +417,25 @@ CAT2 = {
         "name_ar": "📈 الاستثمار",
         "name_en": "📈 Investment",
         "books": [
-            {"title": "المستثمر الذكي", "description": "الكتاب المرجعي الأول عالمياً في الاستثمار من تأليف بنجامين غراهام — أساسيات الاستثمار القائم على القيمة والتحليل المالي.", "url": "https://example.com/intelligent-investor.pdf"},
-            {"title": "الميليونير الفوري", "description": "قصة ملهمة عن رجل يتحول إلى مليونير بين عشية وضحاها — أسرار العقلية المالية والنجاح من تأليف مارك فيكتور هانسن وروبرت ألن.", "url": "https://example.com/instant-millionaire.pdf"},
-            {"title": "دراسة السوق", "description": "كيف تحلل السوق وتحدد الفرص الاستثمارية — فهم المنافسين والعرض والطلب قبل اتخاذ أي قرار استثماري.", "url": "https://example.com/market-analysis.pdf"},
-            {"title": "اجتذاب العملاء", "description": "استراتيجيات عملية لجذب العملاء الجدد والاحتفاظ بهم — بناء قاعدة عملاء قوية لتنمية استثمارك وأعمالك.", "url": "https://example.com/customer-acquisition.pdf"}
+            {"title": "المستثمر الذكي", "description": "الكتاب المرجعي الأول عالمياً في الاستثمار من تأليف بنجامين غراهام — أساسيات الاستثمار القائم على القيمة والتحليل المالي.", "url": "https://example.com/intelligent-investor.pdf", "file_id": "BQACAgQAAxkBAAOeanInVp6NLtRloW8JBSp8EPToTIgAAosKAAJT9NhRARhOiVTzYg89BA"},
+            {"title": "الميليونير الفوري", "description": "قصة ملهمة عن رجل يتحول إلى مليونير بين عشية وضحاها — أسرار العقلية المالية والنجاح من تأليف مارك فيكتور هانسن وروبرت ألن.", "url": "https://example.com/instant-millionaire.pdf", "file_id": "BQACAgQAAxkBAAOfanInVhYC_sXnb0EVQphBcYDeN5EAAgsCAAIW92lQDARaT4JRsNI9BA"},
+            {"title": "دراسة السوق", "description": "كيف تحلل السوق وتحدد الفرص الاستثمارية — فهم المنافسين والعرض والطلب قبل اتخاذ أي قرار استثماري.", "url": "https://example.com/market-analysis.pdf", "file_id": "BQACAgQAAxkBAAOganInVqoverwpQOzBP4NRu6G-3ggAApcAAzdI2VDhvF5UEo0RmD0E"},
+            {"title": "اجتذاب العملاء", "description": "استراتيجيات عملية لجذب العملاء الجدد والاحتفاظ بهم — بناء قاعدة عملاء قوية لتنمية استثمارك وأعمالك.", "url": "https://example.com/customer-acquisition.pdf", "file_id": "BQACAgIAAxkBAAOhanInVrOByHuVAuBiJfiEdFrLcW8AAjIhAAJCykhIy2uJmTYMFxw9BA"}
         ]
     },
     "islamic": {
         "name_ar": "🕌 الكتب الإسلامية",
         "name_en": "🕌 Islamic Books",
         "books": [
-            {"title": "كتب الحديث الستة", "description": "مجموعة الكتب الستة المعتمدة في الحديث النبوي — صحيح البخاري، صحيح مسلم، سنن أبي داود، سنن الترمذي، سنن النسائي، وسنن ابن ماجه.", "url": "https://example.com/six-books-of-hadith.pdf"},
-            {"title": "مؤلفات ابن تيمية", "description": "مختارات من أهم كتب شيخ الإسلام ابن تيمية في العقيدة والفقه والتفسير — مثل العقيدة الواسطية ومنهاج السنة النبوية.", "url": "https://example.com/ibn-taymiyyah.pdf"},
-            {"title": "مؤلفات ابن قيم الجوزية", "description": "روائع الإمام ابن قيم الجوزية — مثل زاد المعاد والفوائد وكتاب الروح.", "url": "https://example.com/ibn-al-qayyim.pdf"},
-            {"title": "مؤلفات ابن الجوزي", "description": "من أهم كتب الإمام ابن الجوزي — مثل صيد الخاطر وتلبيس إبليس وبستان الواعظين.", "url": "https://example.com/ibn-al-jawzi.pdf"},
-            {"title": "مؤلفات ابن عثيمين", "description": "شروحات وكتب الشيخ محمد بن صالح العثيمين — مثل شرح الأصول الثلاثة وشرح العقيدة الواسطية.", "url": "https://example.com/ibn-uthaymeen.pdf"}
+            {"title": "صحيح مسلم", "description": "من أمهات كتب الحديث — جمع الإمام مسلم بن الحجاج أصح الأحاديث بعد صحيح البخاري.", "url": "https://example.com/muslim.pdf", "file_id": "BQACAgQAAxkBAAO8anInVisweNMuz864zBCBoEoQqJsAAvcGAAJBaS0FyJ1OWUP_lPc9BA"},
+            {"title": "سنن أبي داود", "description": "سنن أبي داود — من كتب الحديث الستة، جمع الإمام أبو داود السجستاني أحاديث الأحكام.", "url": "https://example.com/abu-dawud.pdf", "file_id": "BQACAgQAAxkBAAO9anInVrCXi6qs_fGgH2e_7WLRPZMAAvgGAAJBaS0FsEFbOrL9vAk9BA"},
+            {"title": "سنن النسائي", "description": "سنن النسائي — المعروفة بالمجتبى، من كتب الحديث الستة للإمام النسائي.", "url": "https://example.com/al-nasai.pdf", "file_id": "BQACAgQAAxkBAAO_anInVtyAG7pGgduGHR_L_Wyz2MoAAvoGAAJBaS0FAek8ZtziDO09BA"},
+            {"title": "صفة صلاة النبي", "description": "صفة صلاة النبي ﷺ مع صفة الوضوء — وصف دقيق لصلاة النبي من تكبيرة الإحرام إلى التسليم.", "url": "https://example.com/prophet-prayer.pdf", "file_id": "BQACAgQAAxkBAAPIanInVsRrjuqa3pF5fsm6NY_C5X8AAjAGAAKGZQFRExJg705hy2E9BA"},
+            {"title": "الطب النبوي", "description": "الطب النبوي للإمام ابن قيم الجوزية — هدي النبي ﷺ في الطب والوقاية والعلاج.", "url": "https://example.com/prophetic-medicine.pdf", "file_id": "BQACAgQAAxkBAAPEanInVnc2m-XvcDsjiaJoWgmDg54AAsAGAALItYFSE7N6yXW8o7g9BA"},
+            {"title": "فقه العبادات", "description": "فقه العبادات للشيخ ابن عثيمين — شرح أحكام الطهارة والصلاة والزكاة والصيام والحج.", "url": "https://example.com/fiqh-worship.pdf", "file_id": "BQACAgQAAxkBAAPHanInVs6HhSjooPJLW1qq_MvlJFYAAmsGAAJZkflQN7iaoFVZZds9BA"},
+            {"title": "العقيدة الواسطية", "description": "العقيدة الواسطية لشيخ الإسلام ابن تيمية — بيان معتقد أهل السنة والجماعة.", "url": "https://example.com/al-wasitiyyah.pdf", "file_id": "BQACAgQAAxkBAAPBanInVk9R1lzTmTrQL8_U9gpZC3UAAm8AA_JY2VDiVNKs6LPpzj0E"},
+            {"title": "تلبيس إبليس", "description": "تلبيس إبليس لابن الجوزي — كشف حيل الشيطان وألاعيبه على أتباعه.", "url": "https://example.com/talbis-iblis.pdf", "file_id": "BQACAgQAAxkBAAPFanInVuJpHCR6vrebuam8SoDvCJ4AAgsJAAJQN1hQ2R8AAbOOZIRZPQQ"},
+            {"title": "صيد الخاطر", "description": "صيد الخاطر لابن الجوزي — خواطر وتأملات في العلم والتربية وتزكية النفس.", "url": "https://example.com/sayd-khatir.pdf", "file_id": "BQACAgQAAxkBAAPGanInVijWasSUamtsCobQ15GbfioAAtYGAAKmV8FSgwppxanPWlo9BA"}
         ]
     },
     "personality": {
@@ -439,9 +443,9 @@ CAT2 = {
         "name_en": "🌱 Build Your Personality",
         "books": [
             {"title": "القوة الهادئة", "description": "كتاب عن قوة الشخصيات الهادئة وكيف تحوّل هدوءك إلى ميزة في الحياة والعمل.", "url": "https://example.com/quiet-power.pdf"},
-            {"title": "انت قوة مذهلة", "description": "دليل عملي لاكتشاف قوتك الداخلية وبناء ثقة مطلقة بنفسك وتحقيق أهدافك.", "url": "https://example.com/you-are-a-badass.pdf"},
-            {"title": "بسط حياتك", "description": "كيف تتخلص من الفوضى والتعقيد وتعيش حياة أبسط وأكثر تركيزاً.", "url": "https://example.com/simplify-your-life.pdf"},
-            {"title": "كيف تقطع علاقتك بهاتفك", "description": "خطوات عملية لتقليل استخدام الهاتف والعودة إلى الحياة الحقيقية.", "url": "https://example.com/break-up-with-phone.pdf"},
+            {"title": "انت قوة مذهلة", "description": "دليل عملي لاكتشاف قوتك الداخلية وبناء ثقة مطلقة بنفسك وتحقيق أهدافك.", "url": "https://example.com/you-are-a-badass.pdf", "file_id": "BQACAgQAAxkBAAO3anInVqwqr-4gl6PXqtN1lY5ZVcsAAk0FAAK6zNhR5YCSTNoVSBs9BA"},
+            {"title": "بسط حياتك", "description": "كيف تتخلص من الفوضى والتعقيد وتعيش حياة أبسط وأكثر تركيزاً.", "url": "https://example.com/simplify-your-life.pdf", "file_id": "BQACAgQAAxkBAAO4anInVrSjA9PCKVK52deqNtR4NP8AArcCAAK5TolQmDasDhBedhU9BA"},
+            {"title": "كيف تقطع علاقتك بهاتفك", "description": "خطوات عملية لتقليل استخدام الهاتف والعودة إلى الحياة الحقيقية.", "url": "https://example.com/break-up-with-phone.pdf", "file_id": "BQACAgIAAxkBAAO5anInVrmHPxvgfRrNBOyEummz9s4AAv8KAALxcNFJG4M32e7BnLA9BA"},
             {"title": "7 شخصيات تسمم حياتكم", "description": "تعرّف على الشخصيات السامة التي تستنزف طاقتك وكيف تحمي نفسك منها.", "url": "https://example.com/7-toxic-personalities.pdf"}
         ]
     },
@@ -449,11 +453,11 @@ CAT2 = {
         "name_ar": "⚡ اشحن طاقتك",
         "name_en": "⚡ Charge Your Energy",
         "books": [
-            {"title": "حافلة الطاقة", "description": "قصة ملهمة عن قيادة الطاقة الإيجابية في العمل والحياة من تأليف جون غوردون.", "url": "https://example.com/energy-bus.pdf"},
-            {"title": "تغلب على الاكتئاب بسرعة", "description": "استراتيجيات عملية للتخلص من الاكتئاب واستعادة التوازن النفسي.", "url": "https://example.com/overcome-depression.pdf"},
-            {"title": "ذاكرة مثالية", "description": "تقنيات عملية لتقوية الذاكرة والحفظ السريع.", "url": "https://example.com/perfect-memory.pdf"},
-            {"title": "مشاعرك قد تكون قاتلة", "description": "فهم خطورة المشاعر السلبية على صحتك وكيف تتحكم بها قبل أن تتحكم بك.", "url": "https://example.com/your-emotions.pdf"},
-            {"title": "من الصفر", "description": "دليل عملي لبدء حياة جديدة من الصفر وبناء مستقبل أفضل.", "url": "https://example.com/from-scratch.pdf"}
+            {"title": "حافلة الطاقة", "description": "قصة ملهمة عن قيادة الطاقة الإيجابية في العمل والحياة من تأليف جون غوردون.", "url": "https://example.com/energy-bus.pdf", "file_id": "BQACAgQAAxkBAAPJanInVgYLA-f0MRsJxfGmHaVBNIQAAoUDAAI9SyFQ_keb_rAxRrs9BA"},
+            {"title": "تغلب على الاكتئاب بسرعة", "description": "استراتيجيات عملية للتخلص من الاكتئاب واستعادة التوازن النفسي.", "url": "https://example.com/overcome-depression.pdf", "file_id": "BQACAgQAAxkBAAPKanInVqNDdazPpsdZ2RmPbVGnglgAAqEFAAJ3bNhQDVtY-1Outdw9BA"},
+            {"title": "ذاكرة مثالية", "description": "تقنيات عملية لتقوية الذاكرة والحفظ السريع.", "url": "https://example.com/perfect-memory.pdf", "file_id": "BQACAgIAAxkBAAPLanInVpt9kykJSLE_AbXjh87TqP8AAnVGAAJFEelLH9p0Yovs3GI9BA"},
+            {"title": "مشاعرك قد تكون قاتلة", "description": "فهم خطورة المشاعر السلبية على صحتك وكيف تتحكم بها قبل أن تتحكم بك.", "url": "https://example.com/your-emotions.pdf", "file_id": "BQACAgQAAxkBAAPManInVphkw-GtrBy--8IUB2URWHEAAj0EAAIjLThTz0fy64SBsRY9BA"},
+            {"title": "من الصفر", "description": "دليل عملي لبدء حياة جديدة من الصفر وبناء مستقبل أفضل.", "url": "https://example.com/from-scratch.pdf", "file_id": "BQACAgQAAxkBAAPNanInVsD4ZNkNogABL-mIdsu3pAwFAAL1CwACWM0JUgJ7YSTRSCKxPQQ"}
         ]
     }
 }
